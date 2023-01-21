@@ -2,6 +2,7 @@
 
 Fully operable via web page, only 1 push button to turn off the alarm 
 
+*
 
 Clock
 
@@ -13,6 +14,7 @@ Time zone and winter / summer time correction manually via web page.
 
 Adjustable clock display brightness.
 
+*
 
 clock radio
 
@@ -32,6 +34,7 @@ Possibility to be awakened by a freely selectable wake-up call.
 
 Automatically turns off after 1 hour.
 
+*
 
 Internet radio
 
